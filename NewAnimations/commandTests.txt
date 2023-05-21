@@ -1,0 +1,2 @@
+To create a render: python3 -m manim render test2.py BooleanOperations
+To generate a preview use manim sideview

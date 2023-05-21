@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/manimTesting/1080p60/partial_movie_files/Animation1/1413466013_2919360894_223132457.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/manimTesting/1080p60/partial_movie_files/Animation1/1672018281_2499206968_1819520466.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/manimTesting/1080p60/partial_movie_files/Animation1/1672018281_4044006031_1342165308.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/manimTesting/1080p60/partial_movie_files/Animation1/1672018281_2011722015_2445249152.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/manimTesting/1080p60/partial_movie_files/Animation1/1672018281_3315967912_3112243285.mp4'
