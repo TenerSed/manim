@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1413466013_1168057378_3280079317.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_345352296_2009297458.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_650278335_4067559736.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_2057884852_4174018169.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_3073779459_356980841.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_2377002534_2874593114.mp4'
+file 'file:/Users/siddheshsongirkar/manim/NewAnimations/media/videos/CalcbcbutIwanttonothaveaC/1080p60/partial_movie_files/FootballField/1672018281_3073779459_3369808821.mp4'
